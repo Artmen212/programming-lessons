@@ -1,4 +1,8 @@
-var first = 20;
-var second = 16;
+first = 20;
+second = 16; 
 var c = (first-second);
-console.log(c);
+function sub(first,second) {
+    return first - second;
+}
+let result = sub(first,second);
+console.log( result );
