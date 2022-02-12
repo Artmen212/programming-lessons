@@ -1,4 +1,5 @@
-let a,b
+let a
 a ="привет"
+let b
 b ="мир"
 console.log(b)
